@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am SriBalaji, known as TheCoverly around the internet, currently pursuing my degree in B.Tech Information Techonology. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am SriBalaji, known as TheCloverly around the internet, currently pursuing my degree in B.Tech Information Techonology. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
  - 🔭 I’m currently working on my personal website (portfolio)
  - 🌱 I’m currently learning Cyber Security at IBM
  - 🌱 I’m currently learning Security Analyst and Front-End developement
