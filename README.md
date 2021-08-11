@@ -62,8 +62,8 @@ I am SriBalaji, known as TheCloverly around the internet, currently pursuing my 
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=iamthecloverly&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthecloverly&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=iamthecloverly&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthecloverly&hide=TeX&layout=compact&theme=tokyonight&langs_count=8)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
