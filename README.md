@@ -3,10 +3,10 @@
 ![](https://github.com/iamthecloverly/iamthecloverly/blob/master/icons/header_.png)
 
 I am SriBalaji, known as TheCloverly around the internet, currently pursuing my degree in B.Tech Information Techonology. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
- - 🔭 I’m currently working on my personal website (portfolio)
- - 🌱 I’m currently learning Cyber Security at IBM
- - 👯 I’m looking to collaborate on AOSP
- - 🤔 I’m looking for help with front-end developement.
+ - I’m currently working on my personal website (portfolio)
+ - I’m currently learning Cyber Security at IBM
+ - I’m looking to collaborate on AOSP
+ - I’m looking for help with front-end developement.
 
 ## Find out more about me & feel free to connect with me here:
 
