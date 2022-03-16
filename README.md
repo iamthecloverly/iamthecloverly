@@ -1,6 +1,6 @@
 ## Hey There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-![](https://github.com/iamthecloverly/iamthecloverly/blob/master/icons/header_.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true)
 
 I am SriBalaji, known as TheCloverly around the internet, currently pursuing my degree in B.Tech Information Techonology. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
  - I’m currently working on my personal website (portfolio)
