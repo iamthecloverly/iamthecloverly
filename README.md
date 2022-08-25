@@ -10,12 +10,20 @@ I am SriBalaji, known as TheCloverly around the internet, currently pursuing my 
 
 ## Find out more about me & feel free to connect with me here:
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-SriBalajiSenthilKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecloverly/)](https://www.linkedin.com/in/thecloverly/)
-<!--[![XDA Badge](https://img.shields.io/badge/-@TheCloverly-00acee?style=flat&logo=Twitter&logoColor=white)](https://forum.xda-developers.com/m/thecloverly.11380049/"XDA profile") -->
+[![XDA Badge](https://img.shields.io/badge/xda-@TheCloverly-yellowgreen?style=flat&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/thecloverly.11380049/)
+
 [![Instagram Badge](https://img.shields.io/badge/-SriBalaji-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iamm.sribalaji/)](https://instagram.com/iam.sribalaji)
-[![Gmail Badge](https://img.shields.io/badge/-sribalajisenthilkumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sribalajisenthilkumar@gmail.com)](mailto:sribalajisenthilkumar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-iam.thecloverly@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iam.thecloverly@pm.me)](mailto:iam.thecloverly@pm.me)
+
 [![Telegram Badge](https://img.shields.io/badge/-@TheCloverly-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/TheCloverly "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@thecloverly-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=thecloverly "Follow on Twitter")
+
+### GitHub Statistics
+![Github Stats](https://github-readme-stats.vercel.app/api?username=iamthecloverly&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthecloverly&hide=TeX&layout=compact&theme=tokyonight&langs_count=8)
+
 
 ## ⚡ Technologies
 
