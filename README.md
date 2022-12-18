@@ -102,7 +102,7 @@ I am SriBalaji, known as TheCloverly around the internet, currently pursuing my 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sribalaji's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamthecloverly&custom_title=SriBalaji's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/iamtheecloverly/"><img alt="Sribalaji's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=iamthecloverly&theme=dracula&custom_title=SriBalaji's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
