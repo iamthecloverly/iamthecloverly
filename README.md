@@ -93,11 +93,6 @@ I am SriBalaji, known as TheCloverly around the internet, currently pursuing my 
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
 </details>
-
-### GitHub Statistics
-![Github Stats](https://github-readme-stats.vercel.app/api?username=iamthecloverly&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthecloverly&hide=TeX&layout=compact&theme=tokyonight&langs_count=8)
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
