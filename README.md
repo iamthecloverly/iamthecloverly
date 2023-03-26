@@ -3,6 +3,12 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true)
 
 I am SriBalaji, known as TheCloverly around the internet, currently pursuing my degree in B.Tech Information Techonology. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
+
+A result-oriented and self-motivated B. Tech graduate with a focus on achieving
+results, I am seeking a challenging career opportunity where I can apply my coding
+knowledge and continue to advance my skill set. I possess a robust technical
+background with expertise in Linux, Cybersecurity, Git, DevOps, Docker, AWS, GCP,
+problem-solving, and Java.
  - I’m currently working on my personal website (portfolio)
  - I’m currently learning Cyber Security.
  - I’m looking to collaborate on AOSP.
