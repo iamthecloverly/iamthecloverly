@@ -1,119 +1,83 @@
+<div align="center">
+
 # Hello there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true)
+![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true)
 
-I am SriBalaji, known as TheCloverly around the internet, currently pursuing my degree in B.Tech Information Techonology. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
+### I am SriBalaji (TheCloverly)
 
-A result-oriented and self-motivated B. Tech graduate with a focus on achieving
-results, I am seeking a challenging career opportunity where I can apply my coding
-knowledge and continue to advance my skill set. I possess a robust technical
-background with expertise in Linux, Cybersecurity, Git, DevOps, Docker, AWS, GCP,
-problem-solving, and Java.
- - I’m currently working on my personal website (portfolio)
- - I’m currently learning Cyber Security.
- - I’m looking to collaborate on AOSP.
- - I’m looking for help with front-end developement.
-
-## Find out more about me & feel free to connect with me here:
-
+**Information Technology Graduate | Open Source Advocate | DevOps & Security Enthusiast**
 
 [![Linkedin Badge](https://img.shields.io/badge/-SriBalajiSenthilKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecloverly/)](https://www.linkedin.com/in/thecloverly/)
-[![XDA Badge](https://img.shields.io/badge/xda-@TheCloverly-yellowgreen?style=flat&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/thecloverly.11380049/)
-
+[![XDA Badge](https://img.shields.io/badge/xda-@TheCloverly-yellowgreen?style=flat-square&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/thecloverly.11380049/)
 [![Instagram Badge](https://img.shields.io/badge/-SriBalaji-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iamm.sribalaji/)](https://instagram.com/iam.sribalaji)
 [![Gmail Badge](https://img.shields.io/badge/-iam.thecloverly@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iam.thecloverly@pm.me)](mailto:iam.thecloverly@pm.me)
+[![Telegram Badge](https://img.shields.io/badge/-@TheCloverly-0088CC?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TheCloverly "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@thecloverly-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=thecloverly "Follow on Twitter")
 
-[![Telegram Badge](https://img.shields.io/badge/-@TheCloverly-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/TheCloverly "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@thecloverly-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=thecloverly "Follow on Twitter")
+</div>
 
-<!--
-### GitHub Statistics
-![Github Stats](https://github-readme-stats.vercel.app/api?username=iamthecloverly&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
+---
 
+### 👨‍💻 About Me
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthecloverly&hide=TeX&layout=compact&theme=tokyonight&langs_count=8)  -->
+I am a result-oriented and self-motivated B.Tech Information Technology graduate with a passion for disruptive innovation. I possess a robust technical background with expertise in **Linux, Cybersecurity, DevOps, and Cloud Infrastructure**. I am always open to collaborating on open-source projects.
 
+- 🔭 I’m currently working on my **Personal Portfolio Website**.
+- 🌱 I’m currently diving deep into **Cyber Security**.
+- 🤝 I’m looking to collaborate on **AOSP (Android Open Source Project)**.
+- 🎨 I’m looking for help with **Front-end Development**.
 
-## ⚡ Technologies
+---
 
+### ⚡ Technical Arsenal
+
+#### **Languages**
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+#### **Cloud, DevOps & Security**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Github Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-   <a href="https://github.com/iamtheecloverly/"><img alt="Sribalaji's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=iamthecloverly&theme=dracula&custom_title=SriBalaji's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <br/>
-</details>
+#### **Backend & Database**
+![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+#### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs  -->
+---
 
+### 📊 GitHub Stats
+
+<div align="center">
 <img src="https://github.com/iamthecloverly/iamthecloverly/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
-<details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
-  <br/>
+<div align="center">
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
-![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
-![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
-![GRPC](https://img.shields.io/badge/GRPC-4285F4.svg?&style=flat&logo=google&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;\
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
-![Puppet](https://img.shields.io/badge/PUPPET-FFAE1A.svg?&style=flat&logo=puppet&logoColor=black)&nbsp;
-![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
-![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD%20PLATAFORM-4285F4.svg?&style=flat&logo=google-cloud&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;\
-![Onion Architecture](https://img.shields.io/badge/ONION%20ARCHITECTURE-A81C7D.svg?&style=flat&logoColor=white)&nbsp;
-![BDD](https://img.shields.io/badge/BEHAVIOR%20DD-4479A1.svg?&style=flat&logo=bdd&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
-![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
-![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
-![JSP](https://img.shields.io/badge/JSP-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
-![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
-![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
-![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
-![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
-![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
-</details>
+> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs
+
+</div>
